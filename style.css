@@ -7,13 +7,14 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
 h1{
     margin-top: 30px;
     font-size: 55px;
     margin-bottom: 30px;
 }
 h2{
-    font-size: 55px;
+    font-size: 45px;
     margin-bottom: 20px;
 }
 h3{
@@ -54,4 +55,23 @@ img{
 .peter-parker{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+section{
+    margin-bottom: 100px;
+}
+
+/* ==============dream-big-area============== */
+
+.dream-big-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream-big-area h4{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.dream-big-area h1{
+    font-size: 50px;
 }
