@@ -111,3 +111,8 @@ section{
     background-position: left bottom;
     background-size: 7%;
 }
+/* ======footer====== */
+footer p{
+    text-align: center;
+    
+}
