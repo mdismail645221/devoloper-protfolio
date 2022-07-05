@@ -75,3 +75,39 @@ section{
 .dream-big-area h1{
     font-size: 50px;
 }
+
+/* =========experiance=========== */
+.experiense-area .orange{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.experiense-area h2{
+    font-size: 30px;
+    margin: 10px 0;
+}
+.experiense-items1{
+    width: 45%;
+    padding-left: 3%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-left: 6.5px solid orange;
+    border-radius: 9.5px;
+}
+.experiense-items2{
+    width: 45%;
+    padding-left: 3%;
+    box-shadow: 10px 10px 40px gray;
+    /* margin-left: 5%; */
+    margin-right: 5%;
+    border-left: 6.5px solid rgb(31, 38, 240);
+    /* height: 350px;
+    align-items: center; */
+    border-radius: 9.5px;
+}
+.experiense-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 7%;
+}
